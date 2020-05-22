@@ -1,4 +1,4 @@
 # CaltorPage
 Iseng" saja.
 
-cek in here: https://alja9.github.io/CaltorPage/
+Result, check in here: https://alja9.github.io/CaltorPage/
